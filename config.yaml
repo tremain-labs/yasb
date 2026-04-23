@@ -42,8 +42,8 @@ bars:
     widgets:
       left:
       - "home"
-        "glazewm_workspaces"
-        "glazewm_tiling_direction"
+      - "glazewm_workspaces"
+      - "glazewm_tiling_direction"
       - "active_window"
       center:
       - "clock"
