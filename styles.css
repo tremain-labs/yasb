@@ -627,3 +627,21 @@ For more information about configuration options, please visit the Wiki https://
     color: rgb(255, 255, 255);
     margin-top: -20px;
 }
+
+.glazewm-tiling-direction {
+    background-color: transparent;
+    padding: 0;
+    margin: 0;
+}
+
+.glazewm-tiling-direction .btn {
+    font-size: 18px;
+    width: 14px;
+    padding: 0 4px 0 4px;
+    color: #CDD6F4;
+    border: none;
+}
+
+.glazewm-tiling-direction .btn:hover {
+    background-color: #727272;
+}
